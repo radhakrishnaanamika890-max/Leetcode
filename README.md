@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -35,9 +36,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
