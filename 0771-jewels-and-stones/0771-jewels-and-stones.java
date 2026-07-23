@@ -3,9 +3,9 @@ class Solution {
         int count=0;
         for(int i=0;i<jewels.length();i++){
             for(int j=0;j<stones.length();j++){
-                char jChar = jewels.charAt(i);
-                char sChar = stones.charAt(j);
-                if(jChar==sChar){
+                char je = jewels.charAt(i);
+                char st = stones.charAt(j);
+                if(je==st){
                     count++;
                 }
             }
