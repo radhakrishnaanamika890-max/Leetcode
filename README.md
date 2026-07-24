@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
