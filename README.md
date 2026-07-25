@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0344-reverse-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
