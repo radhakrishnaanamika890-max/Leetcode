@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0278-first-bad-version/) | Easy |
+| [0367-valid-perfect-square](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
