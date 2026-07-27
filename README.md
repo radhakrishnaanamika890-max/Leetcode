@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0278-first-bad-version](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
@@ -136,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
