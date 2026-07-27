@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2451-odd-string-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2451-odd-string-difference/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
