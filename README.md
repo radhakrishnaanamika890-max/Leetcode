@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0506-relative-ranks](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0912-sort-an-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
