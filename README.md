@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
