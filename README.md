@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0509-fibonacci-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -199,4 +200,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
