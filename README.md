@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [2451-odd-string-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2451-odd-string-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -104,10 +105,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2451-odd-string-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2451-odd-string-difference/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
