@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0278-first-bad-version/) | Easy |
