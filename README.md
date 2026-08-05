@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -297,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
