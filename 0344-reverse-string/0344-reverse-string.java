@@ -8,6 +8,6 @@ class Solution {
             s[right] = temp;
             left ++;
             right --;
-        }  
+        }
     }
 }
