@@ -101,7 +101,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
-| [0485-max-consecutive-ones](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0506-relative-ranks](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
