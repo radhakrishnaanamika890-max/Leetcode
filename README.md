@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
