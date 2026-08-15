@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0455-assign-cookies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0506-relative-ranks](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0455-assign-cookies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0455-assign-cookies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0455-assign-cookies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Binary Search
@@ -356,4 +360,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
