@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0068-text-justification](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
