@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0068-text-justification](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0412-fizz-buzz](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0682-baseball-game](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0682-baseball-game](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0682-baseball-game](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
