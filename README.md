@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0068-text-justification](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0076-minimum-window-substring](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -372,4 +374,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
