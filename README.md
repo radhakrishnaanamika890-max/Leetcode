@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0844-backspace-string-compare](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2451-odd-string-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2451-odd-string-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0412-fizz-buzz](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0844-backspace-string-compare](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
