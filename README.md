@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2451-odd-string-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2451-odd-string-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2451-odd-string-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2451-odd-string-difference/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1208-get-equal-substrings-within-budget](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
