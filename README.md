@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
