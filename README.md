@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2451-odd-string-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2451-odd-string-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3174-clear-digits](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3174-clear-digits/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3174-clear-digits](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3174-clear-digits/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [3174-clear-digits](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
