@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -427,4 +431,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
