@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
