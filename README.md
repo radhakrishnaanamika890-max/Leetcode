@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0075-sort-colors](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -420,4 +423,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
