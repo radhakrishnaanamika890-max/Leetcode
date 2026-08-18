@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
