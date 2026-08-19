@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0436-find-right-interval](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0436-find-right-interval](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0436-find-right-interval](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0436-find-right-interval/) | Medium |
 | [0704-binary-search](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
