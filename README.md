@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [0896-monotonic-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0912-sort-an-array/) | Medium |
