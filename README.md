@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0564-find-the-closest-palindrome](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0738-monotone-increasing-digits](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0877-stone-game](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0564-find-the-closest-palindrome](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0771-jewels-and-stones](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
