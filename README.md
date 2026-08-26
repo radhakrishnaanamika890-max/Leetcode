@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0326-power-of-three](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0367-valid-perfect-square](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0486-predict-the-winner](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
