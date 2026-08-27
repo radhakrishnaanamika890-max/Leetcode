@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0326-power-of-three](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0367-valid-perfect-square](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0179-largest-number/) | Medium |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
