@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/radhakrishnaanamika890-max/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
